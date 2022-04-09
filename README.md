@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![about me][about-me]
-
 > Checkout: [gh/jooaodanieel/GCommit][gcommit] <br>
 > #pair-programming #mob-programming
 
@@ -13,7 +11,6 @@
 [<img style="margin: 0 10px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img style="margin: 0 10px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-[about-me]: ./me.jpg
 [gcommit]: https://github.com/jooaodanieel/GCommit
 
 [github]: https://github.com/jooaodanieel
