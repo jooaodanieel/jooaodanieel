@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-> Checkout: [gh/jooaodanieel/GCommit][gcommit] <br>
+Checkout my two open-source projects
+
+> [gh/jooaodanieel/GCommit][gcommit] <br>
 > #pair-programming #mob-programming
+
+> [gh/jooaodanieel/dk-assist][dkassist] <br>
+> #dev-tools #env-vars #config-files
 
 ## My online self
 
@@ -12,6 +17,7 @@
 [<img style="margin: 0 10px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 [gcommit]: https://github.com/jooaodanieel/GCommit
+[dkassist]: https://github.com/jooaodanieel/dk-assist
 
 [github]: https://github.com/jooaodanieel
 [gitlab]: https://gitlab.com/jotaf.daniel
